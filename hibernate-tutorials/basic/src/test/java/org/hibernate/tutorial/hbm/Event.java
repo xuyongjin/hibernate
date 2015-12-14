@@ -40,7 +40,7 @@ public class Event {
 		this.title = title;
 		this.date = date;
 	}
-
+adad
 	public Long getId() {
 		return id;
 	}
